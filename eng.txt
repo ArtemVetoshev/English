@@ -60,3 +60,54 @@ accommodate - вмещать, приспосабливать
 transparency - прозрачность
 absent(to absent) - нет на месте, отсутстствующий
 to summon - вызывать, призывать
+substitute - заменить, замещать
+denote - обозначать
+intervene - вмешиваться
+sketch - эскиз, набросок
+thoroughly - тщательно
+elaborated - тщательно разработанный
+reveal - показывать, раскрывать
+presence - присутствие, наличие
+reflects a state - отражает состояние
+incorporated - включенный в
+eventually - в конечном итоге
+get rid of - избавляться от
+it aligns - это совмещается
+Of the mentioned ones - из упомянутых
+as ongoing - как продолжающиеся (постоянные)
+it is advisable - желаельно
+pitfalls - подводные камни
+inevitable - неизбежный
+frustration - разочарование
+consuming - потребляющий
+complicate - усложнять
+flawless - безупречный
+indentations - углубления
+redundancy - избыточность
+robust - крепкий, здравый
+nevertheless - тем не менее, однако
+eliminating - уничтожение
+detrimental - вредный, убыточный
+oversights - оплошность, просчеты, недочеты
+pipeline - источник информации
+mutual - взаимное
+clarity - ясность
+convention - условность
+layout - расположение
+indentation - отступ, вдавливание
+trail - след
+to reveal - раскрыть
+constantly - постоянно
+borrowed - заимствованные (to borrow - занимать)
+capability - возможность
+fortify - укреплять
+immensely - безмерно, очень
+enhances - усиливает
+perceptive - восприимчивый
+pressure - давление
+flaw - изъян, недостаток
+buffer overflow - переполнение буфера
+to spot - заметить
+snippet - отрывок, кусок
+implications - последствия
+angle - угол
