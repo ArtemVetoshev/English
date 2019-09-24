@@ -111,3 +111,33 @@ to spot - заметить
 snippet - отрывок, кусок
 implications - последствия
 angle - угол
+severity - строгость, суровость
+assess - оценить
+Containment - политика сдерживания
+exploratory - разведочный, исследовательский, предварительный
+throughout - на протяжении
+rushing - торопясь, бросаясь
+resilience - упругость, эластичность
+compatibility - совместимость
+tangible - ощутимый, осязаемый
+not to mention the fact - не говоря уже о том..
+data flows - потоки данных
+diversity - разнообразие
+versatile - разносторонний
+considerations - соображения, рассмотрения
+scope - объем
+lack - отсутствие , недостаток
+thoroughly - тщательно
+adjust - регулировать, приспосабливать
+threshold - порог, предел
+it's worth mentioning that - стоит отметить, что
+pick up - Забирают, подбирают, принимают
+scalable - масштабируемый
+engagement - обязательство, помолвка
+disparity - несоответствие
+compose - составить, сочинять
+unified - единый, унифицированный
+allocation - распределение
+mapping - отображение, преобразование, картография
+emphasis - акцент, особое внимание, ударение
+advent - пришествие, наступление
