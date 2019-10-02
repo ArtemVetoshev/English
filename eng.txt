@@ -145,3 +145,11 @@ bear in mind - иметь в виду
 note that - обратите внимание, что
 to cater - угождать
 ahead - впереди
+most likely - скорее всего
+compatible - совместимый
+concurrency - совпадение
+to omit - пропускать, пренебрегать
+(to) gather - сбор, собирать
+node - узел
+loop - петля, виток, цикл
+evenly - равномерно
