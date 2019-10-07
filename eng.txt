@@ -153,3 +153,54 @@ to omit - пропускать, пренебрегать
 node - узел
 loop - петля, виток, цикл
 evenly - равномерно
+lightweight - легкий, несерьезный
+harness - использует
+timescale - временные рамки
+sustainable - устойчивый
+to maintain a constant pace indefinitely - поддерживать постоянный темп на неопр. срок
+emerge - появляются, возникают
+adjust - регулировать, приспосабливать
+tune - настраивать
+accomodate - разместить
+refine - усовершенствовать
+will come to light - выйдут на свет
+trade-offs - уступки
+solid - твердый, прочный
+neglected - запущенный, пренебреженный
+overall timeline - общий график
+commitment - обязательство
+definitive - окончательный, точный
+in succession - подряд
+Once an idea is deemed viable and feasible - когда идея считается жизнеспособной и осуществимой
+quantifiable - количественный
+funding - финансирование
+lays down the foundation - закладывает основу
+assuming simplicity and embracing change - предполагая простоту и охватывая изменения
+blends - смешивает
+speculate - размышлять
+It addresses the common failures - он решает общие проблемы
+lack - недостаток, отсутствие
+never compromise quality - никогда не ставьте под угрозу качество
+lean - бедная, скудная
+amplify - усилить, увеличить
+empower - уполномочить, дать возможность
+make policies explicit - делайте политику явной, точной
+reflective improvement - улучшение рефлексии
+osmotic - осмотический ?
+co-located - совмещен
+supplement - дополнение
+division - деление, разделение
+mentor - наставник
+takes it one step further - делает еще один шаг вперед
+scale - масштаб
+trademark - товарный знак
+adopt - принять
+tackles tough issues - решает сложные вопросы
+emphasis - акцент
+turnover - оборот
+realities you observe - реалии, которые вы наблюдаете
+Without in-depth, upfront planning - без глубокого предварительного планирования
+burndown chart - график выгрузки
+burndown rate - скорость(ставка) выгорания
+Multiply - умножить
+Planning poker is a consensus-based, gamified technique - основанный на согласии, игровой метод
