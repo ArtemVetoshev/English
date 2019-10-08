@@ -204,3 +204,125 @@ burndown chart - график выгрузки
 burndown rate - скорость(ставка) выгорания
 Multiply - умножить
 Planning poker is a consensus-based, gamified technique - основанный на согласии, игровой метод
+adopt - принимать
+surfaced - всплыли
+legal affairs - правовые вопросы (дела)
+roadblocks - кпп, дорожное препятствие
+Whichever route - какой бы маршрут ..
+adjust - регулировать, устанавливать, приспосабливать
+cadence - каденция, ритм, движение в ногу
+calls for - призывает к
+prescriptive - предписывающий, нормативный
+transparency - прозрачность
+confusion - путаница
+get out of hand - выйти из под контроля
+to cope - справиться, совладать
+refinement - усовершенствование / утонченность
+convey - передавать, транспортировать
+guidance - управление, руководство
+helps the team do their best possible work - помогает команде делать все возможное
+she doesn’t have authority over - она не имеет полномочий (власти) над
+camaraderie (камарадери) - дух товареищества
+Unlike traditional development teams - в отличие от традинионных команд разработки
+anticipate - предвидеть, ожидать
+outstanding work - выдающаяся работа
+metrics - показатели
+impact - воздействие
+scaling up - увеличение
+Pivotal Tracker - основной трэкер (тула)
+milestones - этапы, вехи
+inception - начало
+elaboration - разработка
+transition - переход
+to fit - помещается, соответствует, сочетается
+commitment - обязательства
+clarify - уточнить, прояснить
+Depending on how familiar your team is with - в зависимости от того, насколько ваща команда знакома с
+Alliance - союз
+to embrace - освоить
+linear (линие) - линейный
+bar chart - гистограмма
+flawed - некорректная, ущербная
+It also leaves a paper trail - это также оставляет бумажный след
+drawback - недостаток, препятствие
+bounce - отскок, подпрыгивать, прыгать
+pinpoint - определить
+feasible - осуществимый, возможный, выполнимый
+flowcharts - блок-схемы
+Once the plan is in place - когда план будет готов
+chunks - куски, ломти
+questionnaires - опросники
+meaning, you could overlay Kanban on top of other existing workflows - 
+то есть вы можете наложить Kanban поверх других существующих рабочих процессов
+inspire - вдохновлять, воодушевлять
+to stock(склад) shelves - складировать полки
+to meet demand - удовлетворить спрос
+he noticed - он заметил
+restocked - пополняться
+cue - сигнал, кий, намек
+consumption - потребление
+Kanban matches the amount of WIP to the team’s capacity - Kanban сопоставляет количество WIP с возможностями
+underpins - поддерживает, подкрепляет
+underlying mechanism - основной механизм
+These cards communicate status at a glance - Эти карты сообщают статус с первого взгляда
+fluid - текучая, жидкая, подвижная
+revolve - вращаться, вертеться
+misuse and mishanding - злоупотребление и неправильное обращение
+inaccuracies - неточности
+miscommunication - недопонимание
+working off - Отработка
+otherwise - в противном случае
+kinds of bells and whistles - виды наворотов
+blockers and queues - блокаторы и очереди
+smooth - плавный, гладкий
+stick - придерживаться, держаться
+accomplishments - достижения
+facilitator - посредник
+to some extent - в некоторой степени
+sacrifice - жертвовать
+besides - кроме, помимо
+almost - почти
+In real estate - в сфере недвижимости
+bottlenecks - узкие места
+Is WIP driven by resource availability - зависит ли wip от доступности ресурсов
+philosophy (филОсофи)
+is blurry (блёри) - размыто
+Hybrid (хайбрид) - смешанный
+pure (пьё) - чистый, простой
+sparked - зажгло, вызвало (интерес)
+cohesive - сплоченный, связующий
+underlying - основной, лежащий в основе
+distinct - особый, отдельный, отчетливый
+as you please - как вы предпочитаете
+assume - предполагать
+at once - сразу, в то же время, одновременно
+persistent - постоянный, устойчивый
+ceremonies (сЕремонис)
+it grooms - оно улаживает что-то (ухаживает)
+closely resembles (быть похожим) - близко напоминает
+gentle - нежный, мягкий
+shift - сдвиг, изменение
+stuck - застрять, приклеиться
+specifically - конкретно, особенно
+fixed - зафиксированы, неподвижны
+orderly - упорядоченный
+it can all boil down to this - все может сводиться к этому
+straightforward - простой, прямой, откровенный
+connotation - коннотация, сопутствующее (дополнительное) значение
+slipping - скольжение
+masquerading (маскьюрейдинг) - притворяется, участвует в маскараде
+advocates(глаг) - отстаивает, пропогандирует
+equally - одинаково, в равной степени
+Neither (нивэ) - не один, никто ..(не требует)
+scratch - царапина
+Prerequisites (приреквизитс) - предпосылки
+distractions - отвлечения, рассеянность
+fulfill - осуществлять, исполнять
+Accredited (акредитид) - аккредитованный
+who have proven knowledge and expertise(компетентность) - кто доказал свои знания и опыт
+prior - предшествующий
+One-Stop - универсальный
+Categorize (кАтегорайс) - классифицировать
+
+
+
