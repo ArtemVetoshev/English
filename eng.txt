@@ -28,7 +28,7 @@ transmit - передавать
 vendor - продавец
 comprehensive facilities - комплексные (сложные, всеобъемлющие) возможности (удобства, оборудование)
 proprietary - патентованный (частный)
-comprises of a non-exhaustive - состоиз из не исчерпывающего
+comprises of a non-exhaustive - состоит из не исчерпывающего
 concept - концепция
 reflect - отражать
 debt - долг
@@ -36,7 +36,7 @@ arise - возникать
 handle - справляться, обращаться, управлять
 to inject - вводить, впрыскивать
 curriculum - учебный план
-vital - жизненно важный
+vital (вайтл) - жизненно важный
 I wish all of you - я желаю вам всем
 Treat your work and code the way you want others to treat you - 
 Относитесь к своей работе и кодируйте так, как вы хотите, чтобы относились к вам другие
@@ -222,7 +222,7 @@ convey - передавать, транспортировать
 guidance - управление, руководство
 helps the team do their best possible work - помогает команде делать все возможное
 she doesn’t have authority over - она не имеет полномочий (власти) над
-camaraderie (камарадери) - дух товареищества
+camaraderie (камарадери) - дух товарищества
 Unlike traditional development teams - в отличие от традинионных команд разработки
 anticipate - предвидеть, ожидать
 outstanding work - выдающаяся работа
